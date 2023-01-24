@@ -1,0 +1,9 @@
+{
+  "name": "aws-bookstore-demo-app_functions_apis",
+  "version": "0.0.1",
+  "description": "aws-bookstore-demo-app/functions/APIs as npm package",
+  "dependencies": {
+    "aws-sdk": "^2.1300.0",
+    "redis": "^4.5.1"
+  }
+}
